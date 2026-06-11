@@ -23,3 +23,5 @@ Append-only. Format: `## [YYYY-MM-DD] action | title`
 ## [2026-05-28] projects | P8–P10 created; agentic RAG track added
 ## [2026-05-28] sources | 7 agentic RAG sources added: ReAct, Self-RAG, FLARE, CRAG, LangGraph, LlamaIndex, LangChain
 ## [2026-05-28] update | chunking-strategies.md — added tables, images, scanned PDFs, mixed-format section
+## [2026-06-11] refine | learning-path.md — added per-step resources, builds-on links, Stage 3 + P11
+## [2026-06-11] ingest | LangChain RAG tutorial → wiki/sources/langchain-rag-tutorial.md; completed wiki/concepts/rag.md

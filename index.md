@@ -7,7 +7,7 @@
 ## Concepts
 | Page | Summary |
 |------|---------|
-| [[wiki/concepts/rag]] | What RAG is, the 3-stage pipeline, why it exists, what it cannot fix — Lewis et al. 2020 |
+| [[wiki/concepts/rag]] | What RAG is, the 3-stage pipeline, agent vs chain architectures, what it cannot fix — Lewis et al. 2020, LangChain docs |
 | [[wiki/concepts/chunking]] | Five levels of chunking, key parameters, chunk size tradeoff, practical decision guide — Wang et al. 2024, Kamradt 2023 |
 | [[wiki/concepts/document-parsing]] | PDF/DOCX/HTML/scanned parsing, table extraction, image handling, OCR, metadata — Unstructured, LlamaParse, pdfplumber |
 | [[wiki/concepts/chunking-strategies]] | Deep dive into all 5 strategies with code + tables, images, scanned PDFs, mixed-format handling — Kamradt 2023, LangChain |
@@ -22,6 +22,7 @@
 | Page | Used in |
 |------|---------|
 | [[wiki/sources/lewis-2020-rag]] | [[rag]] — original RAG paper, NeurIPS 2020, 5000+ citations |
+| [[wiki/sources/langchain-rag-tutorial]] | [[rag]] — official LangChain tutorial, minimal pipeline, agent vs chain architectures |
 | [[wiki/sources/wang-2024-best-practices-rag]] | [[chunking]] · [[chunking-strategies]] · [[chunk-overlap]] · [[evaluation-metrics]] — EMNLP 2024 |
 | [[wiki/sources/kamradt-2023-five-levels]] | [[chunking]] · [[chunking-strategies]] — Five Levels framework, industry standard practitioner guide |
 | [[wiki/sources/reimers-2019-sbert]] | [[embeddings-and-vector-search]] — Sentence-BERT paper, EMNLP 2019, 6000+ citations |

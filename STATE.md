@@ -1,6 +1,6 @@
 # STATE
 
-**Focus:** Stage 1, Step 1 — What is RAG? (Lewis et al. 2020)
-**Last decision:** Full wiki reset; building foundations from authoritative sources only
-**Files in flight:** wiki/concepts/rag.md (in progress)
-**Next action:** Complete rag.md → move to Step 2 (chunking)
+**Focus:** Stage 1, Step 2 — Chunking
+**Last decision:** Step 1 done — LangChain RAG tutorial ingested, rag.md completed (agent-vs-chain section added)
+**Files in flight:** none
+**Next action:** Step 2 resources (LangChain/LlamaIndex splitter docs) → P1 unlocks after Step 2
